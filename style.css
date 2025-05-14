@@ -76,7 +76,6 @@ header{
     text-align: center;
 }
 
-
 .product ul a{
    color: black;
 }
@@ -218,6 +217,7 @@ table td span{
 }
 .about-shop1 h2{
     padding-bottom: 10px;
+    text-align: start;
 }
 
 .list-style{
