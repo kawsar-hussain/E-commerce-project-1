@@ -159,6 +159,7 @@ table td span{
 
 .about-shop ul li{
     font-size: 13px;
+    margin-left: ;
 }
 
 .shop-padding{
@@ -172,7 +173,7 @@ table td span{
 
 .list-style{
     list-style-type: disc;
-    margin-left: 60px;
+    margin-left: 40px;
 }
 
 .about-shop1, .about-shop2, .about-shop3 {
